@@ -1,0 +1,21 @@
+date,location,sales,payment_method
+2023-01-05,New York,125.50,Credit Card
+2023-01-05,Los Angeles,89.75,Debit Card
+2023-01-06,Chicago,210.00,Cash
+2023-01-06,Houston,54.30,Debit Card
+2023-01-07,New York,342.25,Credit Card
+2023-01-07,Los Angeles,76.80,Apple Pay
+2023-01-08,Chicago,128.40,Debit Card
+2023-01-08,Houston,95.00,Cash
+2023-01-09,New York,231.75,Credit Card
+2023-01-09,Los Angeles,143.20,Google Pay
+2023-01-10,Chicago,67.90,Debit Card
+2023-01-10,Houston,188.50,Credit Card
+2023-01-11,New York,92.30,Cash
+2023-01-11,Los Angeles,256.80,Credit Card
+2023-01-12,Chicago,174.25,Debit Card
+2023-01-12,Houston,45.90,Cash
+2023-01-13,New York,312.60,Credit Card
+2023-01-13,Los Angeles,87.45,Debit Card
+2023-01-14,Chicago,123.75,Apple Pay
+2023-01-14,Houston,198.30,Credit Card
