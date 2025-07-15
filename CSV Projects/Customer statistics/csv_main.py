@@ -1,6 +1,6 @@
 import pandas as pd
 
-sales = pd.read_csv(r'sales.csv')
+sales = pd.read_csv(r'CSV Projects\Customer statistics\sales.csv')
 location = (sales.groupby('location'))
 sales_location = (sales.groupby('location')["sales"])
 grouped = sales.groupby('location')["sales"].sum()
